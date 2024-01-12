@@ -11,6 +11,7 @@ Se XP menor do que 1.000 = Ferro, Se XP entre 1.001 e 2.000 = Bronze, Se XP entr
 Ao final deverá ser exibida uma mensagem: "O Herói de nome {nome} está no nível de {nível}."
 
 **Conhecimentos aplicados no jogo**
+
 Variáveis: nome, xp, nivel
 Operadores lógicos: &&
 Estruturas condicionais: else, if else
