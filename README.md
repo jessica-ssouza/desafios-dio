@@ -1,6 +1,6 @@
 # desafios-dio
 
-**Compilado de desafios de código do Felipão proposto pelo Bootcamp Potência Tech Ifood-Programação do Zero da Dio.
+**Compilado de desafios de código do Felipão proposto pelo Bootcamp Potência Tech Ifood-Programação do Zero da Dio.**
 
 1️⃣ Classificador de Nível de Herói
 Objetivo: Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar algumas das mensagens abaixo:
