@@ -2,7 +2,7 @@
 
 **Compilado de desafios de código do Felipão proposto pelo Bootcamp Potência Tech Ifood-Programação do Zero da Dio.**
 
-#1️⃣ Classificador de Nível de Herói
+#1️⃣ Classificador de Nível de Herói#
 Objetivo: Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar algumas das mensagens abaixo:
 
 Se XP menor do que 1.000 = Ferro, Se XP entre 1.001 e 2.000 = Bronze, Se XP entre 2.001 e 5.000 = Prata, Se XP entre 6.001 e 7.000 = Ouro, Se XP entre 7.001 e 8.000 = Platina, Se XP entre 8.001 e 9.000 = Ascendente, Se XP entre 9.001 e 10.000 = Imortal, Se XP maior ou igual a 10.001 = Radiante.
