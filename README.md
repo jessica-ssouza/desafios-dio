@@ -12,10 +12,10 @@ Ao final deverá ser exibida uma mensagem: "O Herói de nome {nome} está no ní
 
 **Conhecimentos aplicados no jogo**
 
-Variáveis: nome, xp, nivel
-Operadores lógicos: &&
-Estruturas condicionais: else, if else
-Funções: console.log()
+Variáveis: nome, xp, nivel.
+Operadores lógicos: &&.
+Estruturas condicionais: else, if else.
+Funções: console.log().
 
 
 # 2️⃣ Calculadora de Partidas Rankeadas
