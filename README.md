@@ -12,9 +12,9 @@ Ao final deverá ser exibida uma mensagem: "O Herói de nome {nome} está no ní
 
 **Conhecimentos aplicados no jogo**
 
-Variáveis: nome, xp, nivel.
-Operadores lógicos: &&.
-Estruturas condicionais: else, if else.
+Variáveis: nome, xp, nivel,
+Operadores lógicos: &&,
+Estruturas condicionais: else, if else,
 Funções: console.log().
 
 
@@ -48,3 +48,4 @@ e no {ataque} deve seguir uma descrição diferente conforme o tipo, seguindo a 
 Se mago -> no ataque exibir (usou magia), Se guerreiro -> no ataque exibir (usou espada), Se monge -> no ataque exibir (usou artes marciais), Se ninja -> no ataque exibir (usou shuriken).
 
 Ao final deve-se exibir uma mensagem: - "o {tipo} atacou usando {ataque}" Ex: mago atacou usando magia, guerreiro atacou usando espada.
+
