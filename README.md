@@ -37,8 +37,8 @@ Variáveis, Operadores, Laços de repetição ,Estruturas de decisões, Funçõe
 
 **Objetivo:** 
 Crie uma classe genérica que represente um herói de uma aventura e que possua as seguintes propriedades:
-nome
-idade
+nome, 
+idade,
 tipo (ex: guerreiro, mago, monge, ninja)
 
 Além disso, deve ter um método chamado atacar que deve atender aos seguintes requisitos:
