@@ -18,7 +18,7 @@ Estruturas condicionais: else, if else,
 Funções: console.log().
 
 
-# 2️⃣ Calculadora de Partidas Rankeadas
+### 2️⃣ Calculadora de Partidas Rankeadas
 **Objetivo:** 
 Crie uma função que receba como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do cálculo (vitórias - derrotas).
 
@@ -28,10 +28,10 @@ Ao final deverá ser exibida uma mensagem: "O Herói tem de saldo de {saldoVitor
 
 **Conhecimentos aplicados no jogo**
 
-*Declaração de Função (function)*: O código define uma função chamada calcularNivelRankeada, que aceita dois parâmetros: vitórias e derrotas. *Declaração de Variáveis ​​​​(const e let)*: Utiliza a palavra-chave const para declarar a constante saldoVitorias e let para declarar a variável nível. *Operadores Aritméticos (-)*: Calcula o saldo de vitórias subtraindo o número de derrotas do número de vitórias (const saldoVitorias = vitórias - derrotas;). *Estrutura de Controle (if-else, if-else)*: Utiliza uma estrutura condicional para determinar o nível do herói com base no número de vitórias. Cada bloco if** ou else if contém condições que comparam o número de vitórias com disciplinas específicas. *Literais de Modelo *: Utiliza templates literários (delimitados por crases) para criar uma string que inclua o saldo de vitórias e o nível do herói. Exemplo : O Herói tem um saldo de ${saldoVitorias} e está no nível: ${nivel}. *Chamada de Função (calcularNivelRankeada(150, 5)*: Chama a função calcularNivelRankeada com os valores 150 e 5 como argumentos para vencer derrotas, respectivamente. *Saída no Console (console.log)*: Imprime no console uma string resultante que inclui o saldo de vitórias e o nível do herói. *Conceitos Lógicos (&&, <, >=)*: Usa operadores lógicos ( &&, <, >=).
+*Declaração de Função (function)*: O código define uma função chamada calcularNivelRankeada, que aceita dois parâmetros: vitórias e derrotas. *Declaração de Variáveis ​​​​(const e let)*: Utiliza a palavra-chave const para declarar a constante saldoVitorias e let para declarar a variável nível. *Operadores Aritméticos (-)*: Calcula o saldo de vitórias subtraindo o número de derrotas do número de vitórias (const saldoVitorias = vitórias - derrotas;). *Estrutura de Controle (if-else, if-else)*: Utiliza uma estrutura condicional para determinar o nível do herói com base no número de vitórias. Cada bloco if** ou else if contém condições que comparam o número de vitórias com disciplinas específicas. *Literais de Modelo:* Utiliza templates literários (delimitados por crases) para criar uma string que inclua o saldo de vitórias e o nível do herói. Exemplo : O Herói tem um saldo de ${saldoVitorias} e está no nível: ${nivel}. *Chamada de Função (calcularNivelRankeada(150, 5)*: Chama a função calcularNivelRankeada com os valores 150 e 5 como argumentos para vencer derrotas, respectivamente. *Saída no Console (console.log)*: Imprime no console uma string resultante que inclui o saldo de vitórias e o nível do herói. *Conceitos Lógicos (&&, <, >=)*: Usa operadores lógicos ( &&, <, >=).
 
 
-# 3️⃣ Escrevendo as classes de um Jogo
+### 3️⃣ Escrevendo as classes de um Jogo
 **O que deve ser utilizado:**
 Variáveis, Operadores, Laços de repetição ,Estruturas de decisões, Funções, Classes e Objetos.
 
